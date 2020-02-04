@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6642d282-267a-4d94-b868-07c965240ed2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VTPOca13RDtJzbzjOjgpa3tlwy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/dashboard/Common" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amirh\Desktop\taak-front\src\pages\dashboard\Common" />
+      <recent name="C:\Users\amirh\Desktop\taak-front\src" />
+      <recent name="C:\Users\amirh\Desktop\taak-front" />
+      <recent name="C:\Users\amirh\Desktop\taak-front\src\pages\dashboard" />
+      <recent name="C:\Users\amirh\Desktop\taak-front\src\pages\dashboard\Products" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amirh\Desktop\taak-front" />
+      <recent name="C:\Users\amirh\Desktop\taak-front\src" />
+      <recent name="C:\Users\amirh\Desktop\taak-front\src\pages\dashboard\Common" />
+      <recent name="C:\Users\amirh\Desktop\taak-front\src\pages\dashboard\Products" />
+      <recent name="C:\Users\amirh\Desktop\taak-front\src\pages\dashboard\Categories" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6642d282-267a-4d94-b868-07c965240ed2" name="Default Changelist" comment="" />
+      <created>1577274080022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577274080022</updated>
+      <workItem from="1577274084756" duration="11550000" />
+      <workItem from="1577360411953" duration="4624000" />
+      <workItem from="1579178854000" duration="2015000" />
+      <workItem from="1579444431933" duration="51578000" />
+      <workItem from="1580037167845" duration="46046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579457299718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1579457299718" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1577274726445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577274726445" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1579533315918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579533315918" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1579533315917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579533315917" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1579533315916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579533315916" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1579533315918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579533315917" />
+    <state x="463" y="144" width="609" height="536" key="find.popup" timestamp="1580259798946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="609" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580259798946" />
+  </component>
+</project>
