@@ -1,4 +1,4 @@
-version: "3.7"
+version: "2"
 # you can run multiple services inside one docker compose file
 # define them with their dependencies one after the other
 services:
